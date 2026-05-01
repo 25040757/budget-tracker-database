@@ -70,8 +70,8 @@ Tracks savings goals and progress for each user.
 - One **user** can have many **saving goals**
 - One **category** can be linked to many **spending records**
 
-  Below is an ER diagra,
-  ![ERD](Screenshot_2026-05-01_233616.jpg)
+  Below is an ER diagram
+  ![ERD](Screenshot_2026-05-01_233616.png)
 
 ---
 
