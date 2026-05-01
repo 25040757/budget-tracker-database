@@ -70,6 +70,9 @@ Tracks savings goals and progress for each user.
 - One **user** can have many **saving goals**
 - One **category** can be linked to many **spending records**
 
+  Below is an ER diagra,
+  ![ERD](Screenshot_2026-05-01_233616.jpg)
+
 ---
 
 ## 📊 Sample Queries
@@ -128,7 +131,7 @@ FROM saving_goals;
 **Chrishelda Seopa**  
 2nd Year Computer Science Student  
 University of Venda  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
+🔗 [GitHub](https://github.com/25040757) | [LinkedIn](https://www.linkedin.com/in/Lesetj_Chrishelda)
 
 ---
 
