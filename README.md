@@ -71,7 +71,7 @@ Tracks savings goals and progress for each user.
 - One **category** can be linked to many **spending records**
 
   Below is an ER diagram
-  ![ERD](Screenshot_2026-05-01_233616.png)
+  ![ERD](Entity-Relationship_Diagram.jpg)
 
 ---
 
