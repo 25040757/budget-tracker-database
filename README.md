@@ -131,7 +131,7 @@ FROM saving_goals;
 **Chrishelda Seopa**  
 2nd Year Computer Science Student  
 University of Venda  
-🔗 [GitHub](https://github.com/25040757) | [LinkedIn](https://www.linkedin.com/in/Lesetj_Chrishelda)
+🔗 [GitHub](https://github.com/25040757) | [LinkedIn](https://www.linkedin.com/in/Lesetja_Chrishelda)
 
 ---
 
